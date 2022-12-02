@@ -17,7 +17,7 @@ _:tada::tada::tada:做饭指南:tada::tada::tada:_
 
 - [NoneBot2](https://github.com/nonebot/nonebot2)：本插件实装的开发框架。
 - [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)：稳定完善的 CQHTTP 实现。
-- [程序员在家做饭方法指南](https://github.com/Anduin2017/HowToCoo)：做菜方法来源于此
+- [程序员在家做饭方法指南](https://github.com/Anduin2017/HowToCook)：做菜方法来源于此
 
 ## 插件依赖
 
