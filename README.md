@@ -21,4 +21,4 @@ _:tada::tada::tada:做饭指南:tada::tada::tada:_
 
 ## 插件依赖
 
-- (https://github.com/kexue-z/nonebot-plugin-htmlrender)nonebot-plugin-htmlrender
+- [nonebot-plugin-htmlrender](https://github.com/kexue-z/nonebot-plugin-htmlrender)
