@@ -10,7 +10,7 @@ _:tada::tada::tada:做饭指南:tada::tada::tada:_
 
 ## 一些问题
 需要修改nonebot-plugin-htmlrender插件目录下的date_source.py文件中read_file的方法
-在aiofiles.open()的括号内加入参数 , encoding = 'utf-8'
+在aiofiles.open()的括号内加入参数 , encoding = 'utf-8' <br>
 ![image](https://user-images.githubusercontent.com/86348789/205248200-e4cae188-b4eb-4a08-aefd-9330503c9efa.png)
 
 ## 功能展示
