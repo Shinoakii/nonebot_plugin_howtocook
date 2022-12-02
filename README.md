@@ -8,6 +8,11 @@ _:tada::tada::tada:做饭指南:tada::tada::tada:_
 4、在bot.py处加载本插件 nonebot.load_plugin("nonebot_plugin_howtocook")<br>
 5、指令：今天吃什么、今晚吃什么、夜宵吃什么、中午吃什么、晚上吃什么、午饭吃什么、晚饭吃什么、怎么做+菜名<br>
 
+## 一些问题
+需要修改nonebot-plugin-htmlrender插件目录下的date_source.py文件中read_file的方法
+在aiofiles.open()的括号内加入参数 , encoding = 'utf-8'
+![image](https://user-images.githubusercontent.com/86348789/205248200-e4cae188-b4eb-4a08-aefd-9330503c9efa.png)
+
 ## 功能展示
 ![image](https://user-images.githubusercontent.com/86348789/205208952-4abba1ec-e317-46a9-b7d9-0fe36304dcdf.png)
 
