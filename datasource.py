@@ -45,7 +45,7 @@ def read_eat_list():
 
 def set_root_path_and_save(PATH, name):
     
-    FILENAME = PATH + '\\' + name
+    FILENAME = os.path.join(PATH, name)
     with open(FILENAME, 'r', encoding= 'utf8') as f:
         data = f.read()
     
